@@ -48,7 +48,6 @@ dhclient
 dhcpcd
 dialog
 diffutils
-discord
 dmraid
 dnsmasq
 dosfstools
@@ -80,7 +79,6 @@ gparted
 gpm
 gptfdisk
 grub
-grub-btrfs
 grub-customizer
 gst-libav
 gst-plugins-bad
@@ -153,9 +151,6 @@ nmap
 noto-fonts
 noto-fonts-emoji
 ntfs-3g
-nvidia-dkms
-nvidia-settings
-nvidia-utils
 nvme-cli
 openconnect
 openssh
@@ -256,6 +251,5 @@ xorg-xsetroot
 xorg-xwininfo
 xsettingsd
 yad
-youtube-dl
 zip
 zsh
