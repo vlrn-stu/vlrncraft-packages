@@ -121,17 +121,12 @@ xsettingsd &
 if [[ ! `pidof xfce-polkit` ]]; then
 	/usr/lib/xfce-polkit/xfce-polkit &
 fi
-./.config/pipeline.sh &
-./.config/oc.sh & 
 mullvad-vpn&
-mullvad-exclude alacritty --working-directory "NBMiner_Linux/" -e ./start_eth.sh &
-Lauch keybindings daemon
+#Lauch keybindings daemon
 sxhkd &
 
 /usr/lib/xfce4/notifyd/xfce4-notifyd &
 pamac-tray &
-openrgb --startminimized &
-discord &
 firefox &
 variety &
 
