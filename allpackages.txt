@@ -46,7 +46,6 @@ baobab
 base
 bash
 bc
-betterdiscord-installer
 betterlockscreen
 bind
 binutils
@@ -537,7 +536,6 @@ libqmi
 libqrtr-glib
 libraqm
 libraw1394
-librewolf
 librsvg
 libsamplerate
 libsasl
@@ -645,7 +643,6 @@ lua
 lua51
 lua52
 lua53
-lutris-git
 lv2
 lvm2
 lxappearance
@@ -665,7 +662,6 @@ mdadm
 menu-cache
 mesa
 mesa-utils
-miktex
 minizip
 mjpegtools
 mkinitcpio
@@ -831,7 +827,6 @@ python-urllib3
 python-xlib
 python-yaml
 python-zipp
-qbittorrent-dark-git
 qemu
 qpdf
 qrencode
